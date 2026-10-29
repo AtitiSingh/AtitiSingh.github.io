@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atitisingh.github.io/sitemap.xml
